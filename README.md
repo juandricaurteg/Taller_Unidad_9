@@ -5,8 +5,8 @@
     <h2>Punto 1: Link de Figma</h2>
     <a href="https://www.figma.com/file/9v9J0q0tmjyeBE1n1NknAE/JuanD?type=design&node-id=0-1&t=edqOaUKaao6eKNWR-0">Link de Figma</a>
     <h2>Punto 2: Link de Figma</h2>
-    <img src="./public/images/html.png" 
+    <img src="./Punto_1-3/public/images/html.png" 
     alt="html">
     <h2>Punto 3: Diseño con Styles CSS</h2>
-    <img src="./public/images/GoFullPage.png" 
+    <img src="./Punto_1-3/public/images/GoFullPage.png" 
     alt="GoFullPage">
