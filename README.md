@@ -7,3 +7,6 @@
     <h2>Punto 2: Link de Figma</h2>
     <img src="./public/images/html.png" 
     alt="html">
+    <h2>Punto 3: Diseño con Styles CSS</h2>
+    <img src="./public/images/GoFullPage.png" 
+    alt="GoFullPage">
