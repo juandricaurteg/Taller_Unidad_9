@@ -1,0 +1,26 @@
+body{
+    margin: 300px;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+a{
+    color: black;
+    
+}
+
+.yellow:hover {
+
+    color: yellow;
+
+
+
+}
+
+.purple:hover {
+    color: purple;
+
+}

@@ -1,0 +1,21 @@
+a {
+  
+    background-color: plum;
+    padding: 12px 18px;
+    text-decoration: solid;
+    color: white;
+    font-size: 22px;
+}
+nav ul{
+    display: flex;
+    gap: 45px;
+    list-style: none;
+}
+div{
+    background-color: plum;
+    padding: 12px 18px;
+}
+
+a:hover{
+    background-color: blue;
+}

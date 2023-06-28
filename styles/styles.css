@@ -2,9 +2,11 @@ body {
   text-align: center;
   color: #000000b5;
   font-family: system-ui, -apple-system;
+  background: linear-gradient(313.18deg, #ece7e1.28%, #b3f0ff 97.04%);
 }
 
-body, div {
+body,
+div {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,6 +21,7 @@ div {
 
 h1 {
   font-size: 58px;
+
 }
 
 h2 {
@@ -26,7 +29,7 @@ h2 {
 }
 
 nav {
-  width: 40%;
+  width: 50%;
 }
 
 ul {
@@ -36,20 +39,23 @@ ul {
 }
 
 li {
-  margin: 50px 0;
+  margin: 30px 0;
 }
 
 p {
-  margin: 40px 0 30px;
+  margin: 20px 0 10px;
   color: #000000ae;
+  font-weight: bold;
   font-size: 17px;
-  border-bottom: 1px solid;
+  border: 1px dashed rgb(27, 35, 37);
+  background: linear-gradient(313.18deg, #8db1f5.28%, #4490d8 97.04%);
+  border-radius: 10px 10px 15px 15px;
 }
 
 a {
-  padding: 12px 25px;
+  padding: 5px 25px;
   color: #ffffff;
-  background-color: #fd8f54e2;
+  background-color: rgba(99, 165, 252, 0.886);
   border: none;
   border-radius: 5px;
   font-family: system-ui, -apple-system;
@@ -60,5 +66,5 @@ a {
 }
 
 a:hover {
-  background-color: #e87537e2;
+  background-color: #104ef8e2;
 }
